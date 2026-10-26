@@ -1,0 +1,10 @@
+.venv
+.notebook-venv
+.ipynb_checkpoints
+__pycache__
+.git
+*.ipynb
+README.md
+homework.md
+homework.yaml
+requirements-notebook.txt

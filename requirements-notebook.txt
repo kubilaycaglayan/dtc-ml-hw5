@@ -1,0 +1,4 @@
+jupyterlab
+ipykernel
+# Tornado 6.5.9 breaks Jupyter Server's static file handler; 6.5.8 is the compatible workaround.
+tornado==6.5.8
